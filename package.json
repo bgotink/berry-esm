@@ -1,0 +1,10 @@
+{
+  "name": "dependant",
+  "version": "0.0.0",
+  "dependencies": {
+    "dependency-cjs": "file:./deps/cjs",
+    "dependency-mjs": "file:./deps/mjs",
+    "dependency-module": "file:./deps/module",
+    "dependency-nomodule": "file:./deps/nomodule"
+  }
+}
